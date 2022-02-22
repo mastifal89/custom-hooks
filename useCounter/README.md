@@ -5,4 +5,6 @@ Usage:
     const { counter, increment, decrement, reset } = useCounter(10);
 ```
 
-useCounter() // default value received
+```javascript
+useCounter() // default value received when no value sent to the function.
+```
